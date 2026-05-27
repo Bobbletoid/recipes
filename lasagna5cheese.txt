@@ -1,4 +1,4 @@
-1) Ingredients, sauce:
+1) Ingredients, red sauce:
 - 500g minced meat (optional)
 - 1 zucchini, diced
 - 1 eggplant, diced
@@ -9,10 +9,10 @@
 - 2 cloves garlic, chopped
 - 1tsp Italian herbs
 - pepper and salt, to taste
-- 50g butter
+- 50g butter + extra for oven dish
 - 2tbsp olive oil
 
-2) Ingredients, topping:
+2) Ingredients, white sauce:
 - 2 or 3 eggs
 - 2tbsp fresh parsley
 - 400g cottage cheese
@@ -21,7 +21,27 @@
 
 3) Ingredients, layers:
 - lasagna sheets (varies)
-- 90g emmentaler, grated
+- 90g provolone (or emmentaler), grated
 - 225g mozzarella, grated
 
-Preparation:
+Preparation, sauce:
+Add butter and olive oil to a big, heavy-bottomed pan and heat
+Add all ingredients for red sauce (1))
+Simmer for 1 hour without lid, stir periodically
+
+Preparation, topping:
+Add eggs to a large bowl and gently stir
+Add all other ingredients for white sauce (2)) and gently stir
+
+Preparation, lasagna:
+    (OPTIONAL: refrigerate the dish one day before heating to make it more firm)
+Preheat oven to 190°C. Grease a big oven dish with butter
+Add a thin layer of red sauce (1/4), then cover with lasagna sheets
+Add provolone/emmentaler (2/3), then a thin layer of white sauce (1/3)
+Add mozzarella (1/3), then cover with lasagna sheets
+Add a layer of red sauce (2/4) and provolone/emmentaler (1/3), then cover with lasagna sheets
+Add white sauce (2/3) and mozzarella (1/3), then cover with lasagna sheets
+Add red sauce (1/4) and mozzarella (1/3)
+Cover dish with aluminium foil, heat for 50 min (+20 min if refrigerated)
+Remove aluminium foil, heat for 20 min (optional: add grilling so it colours the top nicely)
+Leave dish to rest for 15 min before serving
